@@ -54,9 +54,11 @@ python3 ft_turing.py machines/inception.json '<alphabet=["1", ".", "+", "="]><st
 ## A few examples
 
 <img align="left" src="https://user-images.githubusercontent.com/66129673/198415388-e508e947-6d1d-4fe4-b2f8-4b09c617b6da.png" width="46%">
-<img align="left" src="https://user-images.githubusercontent.com/66129673/198416107-21f970d1-ade7-4303-b3f1-35e6fc323fd7.png" width="46%">
+<img src="https://user-images.githubusercontent.com/66129673/198416107-21f970d1-ade7-4303-b3f1-35e6fc323fd7.png" width="46%">
 <img align="left" src="https://user-images.githubusercontent.com/66129673/198415520-6eca21d3-898e-40a5-b5bc-aaa7968eae3e.png" width="46%">
-<img align="left" src="https://user-images.githubusercontent.com/66129673/198416030-036daefa-22cb-4a58-bdbc-03542915fae3.png" width="46%">
+<img src="https://user-images.githubusercontent.com/66129673/198416030-036daefa-22cb-4a58-bdbc-03542915fae3.png" width="46%">
+
+<br>
 
 -----
 
