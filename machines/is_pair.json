@@ -25,7 +25,7 @@
             {
                 "read": ".",
                 "to_state": "HALT",
-                "write": "n",
+                "write": "y",
                 "action": "RIGHT"
             }
         ],
@@ -39,7 +39,7 @@
             {
                 "read": ".",
                 "to_state": "HALT",
-                "write": "y",
+                "write": "n",
                 "action": "RIGHT"
             }
         ]
